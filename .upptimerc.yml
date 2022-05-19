@@ -13,14 +13,15 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://www.programonaut.com/wp-content/uploads/2021/07/programonaut-sw-512-180x180.png
+  favicon: https://www.programonaut.com/wp-content/uploads/2021/07/programonaut-sw-512-180x180.png
   name: Programonaut - Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: "Status for programonaut's websites and applications"
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/
       
 workflowSchedule:
   graphs: "0 0 * * *"
