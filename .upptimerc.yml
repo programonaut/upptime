@@ -6,6 +6,11 @@ user-agent: programonaut
 sites:
   - name: Programonaut
     url: https://www.programonaut.com
+  - name: Easy Portfolio
+    url: https://app.easy-portfolio.com
+  - name: Easy Portfolio LP
+    url: https://easy-portfolio.com    
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
