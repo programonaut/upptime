@@ -29,9 +29,9 @@ status-website:
       href: https://github.com/$OWNER/
       
 workflowSchedule:
-  graphs: "0 */1 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 */1 * * *"
+  graphs: "15 0 * * *"
+  responseTime: "0 0 * * *"
+  staticSite: "30 0 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
