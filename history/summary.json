@@ -4,19 +4,19 @@
     "url": "https://www.programonaut.com",
     "icon": "https://favicons.githubusercontent.com/www.programonaut.com",
     "slug": "programonaut",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 967,
-    "timeDay": 779,
-    "timeWeek": 927,
-    "timeMonth": 967,
-    "timeYear": 967,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 976,
+    "timeDay": 988,
+    "timeWeek": 961,
+    "timeMonth": 976,
+    "timeYear": 976,
     "dailyMinutesDown": {
-      "2022-06-02": 1
+      "2022-06-02": 4
     }
   },
   {
