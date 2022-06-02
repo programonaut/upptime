@@ -4,18 +4,20 @@
     "url": "https://www.programonaut.com",
     "icon": "https://favicons.githubusercontent.com/www.programonaut.com",
     "slug": "programonaut",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 967,
     "timeDay": 779,
     "timeWeek": 927,
     "timeMonth": 967,
     "timeYear": 967,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 1
+    }
   },
   {
     "name": "Easy Portfolio",
@@ -41,18 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/easy-portfolio.com",
     "slug": "easy-portfolio-lp",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 443,
     "timeDay": 465,
     "timeWeek": 387,
     "timeMonth": 443,
     "timeYear": 443,
-    "dailyMinutesDown": {
-      "2022-06-02": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
