@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.programonaut.com",
     "slug": "programonaut",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 976,
     "timeDay": 988,
     "timeWeek": 961,
     "timeMonth": 976,
     "timeYear": 976,
-    "dailyMinutesDown": {
-      "2022-06-02": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Easy Portfolio",
