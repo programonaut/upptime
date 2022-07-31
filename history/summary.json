@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1050,
-    "timeDay": 1023,
-    "timeWeek": 1029,
-    "timeMonth": 1077,
-    "timeYear": 1050,
+    "time": 1052,
+    "timeDay": 1252,
+    "timeWeek": 1061,
+    "timeMonth": 1074,
+    "timeYear": 1052,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 467,
-    "timeWeek": 478,
+    "time": 476,
+    "timeDay": 604,
+    "timeWeek": 495,
     "timeMonth": 495,
-    "timeYear": 475,
+    "timeYear": 476,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,19 @@
     "url": "https://easy-portfolio.com",
     "icon": "https://favicons.githubusercontent.com/easy-portfolio.com",
     "slug": "easy-portfolio-lp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 699,
-    "timeWeek": 561,
+    "time": 474,
+    "timeDay": 689,
+    "timeWeek": 571,
     "timeMonth": 507,
-    "timeYear": 472,
-    "dailyMinutesDown": {}
+    "timeYear": 474,
+    "dailyMinutesDown": {
+      "2022-07-31": 0
+    }
   }
 ]
