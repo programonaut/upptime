@@ -4,9 +4,9 @@
     "url": "https://www.programonaut.com",
     "icon": "https://favicons.githubusercontent.com/www.programonaut.com",
     "slug": "programonaut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1061,
     "timeMonth": 1074,
     "timeYear": 1052,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-31": 0
+    }
   },
   {
     "name": "Easy Portfolio",
     "url": "https://app.easy-portfolio.com",
     "icon": "https://favicons.githubusercontent.com/app.easy-portfolio.com",
     "slug": "easy-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 495,
     "timeMonth": 495,
     "timeYear": 476,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-31": 0
+    }
   },
   {
     "name": "Easy Portfolio LP",
@@ -42,9 +46,9 @@
     "slug": "easy-portfolio-lp",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 472,
     "timeDay": 585,
@@ -52,7 +56,7 @@
     "timeMonth": 500,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2022-07-31": 17
+      "2022-07-31": 23
     }
   }
 ]
