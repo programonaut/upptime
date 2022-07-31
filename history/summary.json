@@ -4,19 +4,19 @@
     "url": "https://www.programonaut.com",
     "icon": "https://favicons.githubusercontent.com/www.programonaut.com",
     "slug": "programonaut",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1052,
-    "timeDay": 1252,
-    "timeWeek": 1061,
-    "timeMonth": 1074,
-    "timeYear": 1052,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1050,
+    "timeDay": 1044,
+    "timeWeek": 1033,
+    "timeMonth": 1066,
+    "timeYear": 1050,
     "dailyMinutesDown": {
-      "2022-07-31": 0
+      "2022-07-31": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.easy-portfolio.com",
     "icon": "https://favicons.githubusercontent.com/app.easy-portfolio.com",
     "slug": "easy-portfolio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 604,
-    "timeWeek": 495,
-    "timeMonth": 495,
-    "timeYear": 476,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 475,
+    "timeDay": 489,
+    "timeWeek": 480,
+    "timeMonth": 492,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2022-07-31": 0
+      "2022-07-31": 6
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://easy-portfolio.com",
     "icon": "https://favicons.githubusercontent.com/easy-portfolio.com",
     "slug": "easy-portfolio-lp",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 472,
-    "timeDay": 585,
-    "timeWeek": 539,
-    "timeMonth": 500,
-    "timeYear": 472,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
+    "time": 470,
+    "timeDay": 551,
+    "timeWeek": 524,
+    "timeMonth": 496,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2022-07-31": 23
+      "2022-07-31": 29
     }
   }
 ]
