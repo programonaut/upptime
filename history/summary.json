@@ -4,18 +4,19 @@
     "url": "https://www.programonaut.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.programonaut.com.ico",
     "slug": "programonaut",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1041,
-    "timeDay": 896,
-    "timeWeek": 1259,
-    "timeMonth": 1100,
-    "timeYear": 1040,
+    "timeDay": 858,
+    "timeWeek": 1133,
+    "timeMonth": 1089,
+    "timeYear": 1039,
     "dailyMinutesDown": {
+      "2023-11-22": 0,
       "2023-04-21": 23,
       "2023-01-25": 47
     }
@@ -31,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 478,
-    "timeDay": 344,
-    "timeWeek": 522,
-    "timeMonth": 436,
+    "time": 479,
+    "timeDay": 564,
+    "timeWeek": 514,
+    "timeMonth": 443,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2023-04-21": 68
@@ -52,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 510,
-    "timeDay": 385,
-    "timeWeek": 540,
-    "timeMonth": 432,
+    "timeDay": 568,
+    "timeWeek": 533,
+    "timeMonth": 440,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2023-04-21": 68
