@@ -6,15 +6,15 @@
     "slug": "programonaut",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1041,
-    "timeDay": 889,
-    "timeWeek": 1113,
-    "timeMonth": 1085,
-    "timeYear": 1039,
+    "timeDay": 1354,
+    "timeWeek": 1119,
+    "timeMonth": 1103,
+    "timeYear": 1041,
     "dailyMinutesDown": {
       "2023-11-22": 19,
       "2023-04-21": 23,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 479,
-    "timeDay": 564,
-    "timeWeek": 514,
-    "timeMonth": 443,
-    "timeYear": 445,
+    "timeDay": 638,
+    "timeWeek": 524,
+    "timeMonth": 453,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2023-04-21": 68
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 510,
-    "timeDay": 568,
-    "timeWeek": 533,
-    "timeMonth": 440,
-    "timeYear": 447,
+    "time": 511,
+    "timeDay": 634,
+    "timeWeek": 535,
+    "timeMonth": 450,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2023-04-21": 68
     }
